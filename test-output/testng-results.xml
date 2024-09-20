@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-20T21:07:56 EET" name="Default suite" finished-at="2024-09-20T21:08:41 EET" duration-ms="45767">
+    <groups>
+    </groups>
+    <test started-at="2024-09-20T21:07:56 EET" name="Default test" finished-at="2024-09-20T21:08:41 EET" duration-ms="45767">
+      <class name="magentoProject2.myTest">
+        <test-method is-config="true" signature="my_setup()[pri:0, instance:magentoProject2.myTest@35d08e6c]" started-at="2024-09-20T21:07:56 EET" name="my_setup" finished-at="2024-09-20T21:07:57 EET" duration-ms="1355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- my_setup -->
+        <test-method signature="log_in()[pri:1, instance:magentoProject2.myTest@35d08e6c]" started-at="2024-09-20T21:07:57 EET" name="log_in" finished-at="2024-09-20T21:08:00 EET" duration-ms="3408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log_in -->
+        <test-method signature="add_to_cart()[pri:2, instance:magentoProject2.myTest@35d08e6c]" started-at="2024-09-20T21:08:00 EET" name="add_to_cart" finished-at="2024-09-20T21:08:41 EET" duration-ms="40943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_to_cart -->
+        <test-method signature="totalnumber()[pri:3, instance:magentoProject2.myTest@35d08e6c]" started-at="2024-09-20T21:08:41 EET" name="totalnumber" finished-at="2024-09-20T21:08:41 EET" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalnumber -->
+      </class> <!-- magentoProject2.myTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
